@@ -3,6 +3,14 @@
 
 An interactive web application for analyzing and visualizing transaction networks to detect potential fraud patterns and suspicious activities.
 
+![image](https://github.com/user-attachments/assets/374ba212-7ac8-4804-b61f-16cf507e29cf)
+![image](https://github.com/user-attachments/assets/6242fd7f-6def-4285-830a-4f54b62f6a4c)
+![image](https://github.com/user-attachments/assets/54b14406-1e52-468c-9525-f5fd3d370970)
+
+
+
+
+
 ## Features
 
 ### 1. Interactive Network Visualization
