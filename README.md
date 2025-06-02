@@ -1,4 +1,5 @@
-# Transaction Network Analysis Application
+# Transaction Network Analysis using GraphRAG
+
 
 An interactive web application for analyzing and visualizing transaction networks to detect potential fraud patterns and suspicious activities.
 
